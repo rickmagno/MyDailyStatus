@@ -1,0 +1,1 @@
+{"ast":null,"code":"import auth0 from '../..lib/auth0';","map":{"version":3,"sources":["/Users/rickmagno/Desktop/MYDAILYSTATUS/pages/api/callback.js"],"names":["auth0"],"mappings":"AAAA,OAAOA,KAAP,MAAkB,gBAAlB","sourcesContent":["import auth0 from '../..lib/auth0'"]},"metadata":{},"sourceType":"module"}
